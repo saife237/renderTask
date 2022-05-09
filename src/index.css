@@ -11,3 +11,67 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card{
+  border: 1px solid #111;
+  /* margin: 10px -2px; */
+  padding: 20px;
+  width: 40%;
+  display: inline-grid;
+  float: right;
+  margin-top: -52%;
+  right: 10%;
+  position: relative;
+  height: 100%;
+  background-color: whitesmoke;
+  color: rgb(8, 8, 6);
+}
+h3{
+  border: 1px #4d8cc4;
+border-radius: 8px;
+  height: 27px;
+  padding: 10px;
+  position: relative;
+  right: 20px;
+  top: -40px;
+  text-align: center;
+  color: #111;
+  /* border-collapse: collapse; */
+  background-color: #4d8cc4;
+
+}
+.btn1{
+  border: 2px solid whitesmoke;
+  margin: 10px;
+  padding: 22px;
+  width: 30%;
+  background-color: #4d8cc4;
+  border-radius: 10px;
+}
+.btn2{
+  border: 2px solid whitesmoke;
+  margin: 10px;
+  padding: 22px;
+  width: 30%;
+  background-color: #4d8cc4;
+  border-radius: 10px;
+}
+.btn3{
+  border: 2px solid whitesmoke;
+  margin: 10px;
+  padding: 22px;
+  width: 30%;
+  background-color: #4d8cc4;
+  border-radius: 10px;
+}
+button{
+  border: 2px lightblue;
+border-radius: 10px;
+height: 50px;
+width: 90%;
+background-color: cadetblue;
+color: white;
+cursor: pointer;
+}
+button:hover{
+background-color: rgb(67, 108, 145);
+}
